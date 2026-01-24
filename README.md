@@ -22,7 +22,7 @@ A fully-featured, production-ready slot machine game built with Unity and C#. Th
 ### Installation
 1. Clone this repository:
    ```powershell
-   git clone <your-repo-url>
+   https://github.com/TwistedProfits/Lucky-Slots-v1.git
    ```
 2. Open the project in Unity.
 3. Ensure DOTween is installed (via Unity Package Manager or [Demigiant's website](http://dotween.demigiant.com/)).
