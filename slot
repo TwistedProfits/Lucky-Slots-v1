@@ -1,0 +1,17 @@
+SlotMachine/
+  Scripts/
+    Net/
+      SlotApiClient.cs
+      SpinDtos.cs
+    Data/
+      SymbolData.cs
+      SymbolDatabase.cs
+    Game/
+      ReelController.cs
+      SlotMachineController.cs
+      SymbolView.cs
+  Prefabs/
+      (Create in Unity) Reel.prefab
+      (Create in Unity) Symbol.prefab
+  ScriptableObjects/
+      (Create in Unity) SymbolDatabase.asset
